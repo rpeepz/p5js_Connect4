@@ -12,5 +12,5 @@ screengrab:
 ![test](https://github.com/rpeepz/p5js_Connect4/blob/main/Screen%20Shot%202023-07-01%20at%2010.14.17%20PM.png "sample") <br>
 
 
-[sketch.js]: https://github.com/rpeepz/p5js_Connect4/blob/main/sketch.js "code"
+[sketch.js]: https://raw.githubusercontent.com/rpeepz/p5js_Connect4/refs/heads/main/sketch.js "code"
 [p5js code editor]: https://editor.p5js.org "p5js"
